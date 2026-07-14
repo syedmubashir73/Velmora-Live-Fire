@@ -10,7 +10,7 @@ A premium live-fire restaurant website experience crafted with modern frontend t
 
 <p align="center">
 
-<a href="https://syedmubashir73.github.io/Velmora/">
+<a href="https://velmorafire.netlify.app/">
   🌐 Live Demo
 </a>
 
