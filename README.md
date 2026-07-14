@@ -1,9 +1,5 @@
 # 🔥 Velmora — Live Fire Kitchen
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x500" alt="Velmora Preview">
-</p>
-
 <h3 align="center">
 Where every flavor becomes a memory.
 </h3>
