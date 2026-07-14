@@ -117,48 +117,6 @@ Every section is designed around the idea of fire, craftsmanship, and memorable 
 
 ---
 
-# 📂 Project Architecture
-
-```bash
-Velmora/
-│
-├── index.html
-│
-├── assets/
-│
-├── css/
-│
-├── js/
-│
-└── README.md
-```
-
----
-
-# ⚡ Getting Started
-
-## Clone Repository
-
-```bash
-git clone https://github.com/syedmubashir73/velmora-live-fire.git
-```
-
-## Run Project
-
-Open:
-
-```bash
-index.html
-```
-
-in your browser.
-
-No dependencies.
-No installation.
-Just pure frontend.
-
----
-
 # 📱 Responsive Design
 
 Velmora is optimized for:
